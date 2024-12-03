@@ -23,7 +23,7 @@ A command-line benchmarking tool.
 * Cross-platform
 
 ## Usage
-
+## By Mudassir Alam
 ### Basic benchmarks
 
 To run a benchmark, you can simply call `hyperfine <command>...`. The argument(s) can be any
